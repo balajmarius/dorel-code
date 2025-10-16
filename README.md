@@ -1,6 +1,6 @@
 # Dorel Code
 
-![Dorel](https://i.imgur.com/fCN1Wti.jpeg)
+<img src="https://i.imgur.com/fCN1Wti.jpeg" alt="Dorel" style="max-width: 280px;">
 
 Claude Code skill bringing authentic Romanian culture to refactoring workflows.
 
