@@ -1,5 +1,7 @@
 # Dorel Code
 
+![Dorel](https://i.imgur.com/fCN1Wti.jpeg)
+
 Claude Code skill bringing authentic Romanian culture to refactoring workflows.
 
 ## Installation
